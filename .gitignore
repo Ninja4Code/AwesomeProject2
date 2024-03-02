@@ -6,7 +6,7 @@
 #
 #node_modules/*
 android/*
-ios/build/*
+#ios/build/*
 
 *.pbxuser
 !default.pbxuser
